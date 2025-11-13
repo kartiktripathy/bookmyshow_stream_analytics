@@ -1,5 +1,7 @@
 # BookMyShow Real-Time Data Pipeline on Azure
 
+<img width="916" height="610" alt="diagram-export-13-11-2025-10_40_36-PM" src="https://github.com/user-attachments/assets/2b13aded-0593-4f06-9a6c-e6fb5964f09b" />
+
 ## Overview
 This project demonstrates the design and implementation of a **real-time streaming data pipeline** using **Azure cloud services**.  
 It simulates the data flow of an online ticketing platform similar to **BookMyShow**, where user bookings and payments are captured, processed, and analyzed in near real-time.
